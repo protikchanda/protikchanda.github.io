@@ -1,0 +1,5 @@
+# pack-refs with: peeled fully-peeled sorted 
+17f1644a8e5a3a9bd07c8900bd71061ffb3a38a7 refs/remotes/origin/master
+8d23af21ab00f1da799b27ac054db376fabb612b refs/remotes/origin/publish
+53d5c67bf13602a25b603d8b34a717eaf9e9128d refs/remotes/origin/tailwind-css
+e028b63e8ed749a7f2ca1eca64f8d7654049a730 refs/tags/v1.0
