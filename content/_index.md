@@ -86,6 +86,7 @@ Design, BTE722 Vaccine Technology, BTE613 Human Genomics, BTE616 Nanobiotechnolo
 **Tools :** Jupyter Notebook, Linux, LaTeX, Vim\
 **Library and Frameworks:** React, Spring Boot, NumPy, Selenium\
 **Online Certifications:** 
+ - [Next Generation Sequencing (NGS) for Influenza and SARS-CoV-2: From Sample Collection to Analysis - WHO](https://openwho.org/verify/xefor-putoz-nurym-rucym-nubik)
  - [Python Data Structures - by University of Michigan](https://www.coursera.org/account/accomplishments/records/9662RLFWSSS9)
  - [Introduction to Artificial Intelligence - by IBM](https://www.coursera.org/account/accomplishments/records/C9PZHVQ89FL7)
  - [Neural Networks and DeepLearning - by DeepLearning.AI](https://www.coursera.org/account/accomplishments/records/G6S6A979UDUT)
