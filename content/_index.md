@@ -72,7 +72,7 @@ doi = {10.1007/s11356-022-24022-4}\n
 ---
 **Email:** protikchanda (AT) gmail (DOT) com\
 **[Curriculum Vitae](https://drive.google.com/file/d/15JpDm-B8TuYYrRm0-z5wWKHN3km3r-Q5/view?usp=sharing) | [ORCID](https://orcid.org/0009-0008-7990-8033) | [Google Scholar](https://scholar.google.com/citations?user=f2kTenwAAAAJ&hl=en) | [ResearchGate](https://www.researchgate.net/profile/Protik-Chanda) | [LinkedIn](https://www.linkedin.com/in/protikchanda) | [GitHub](https://github.com/piedpipr) | [Rosalind](https://rosalind.info/users/protik/)**\
-**Research Interests:** Biotechnology & Bioengineering (Bioinformatics, Microbiology, Space Biology, Genomics and AI)
+**Research Interests:** Biotechnology & Bioengineering (Bioinformatics, Microbiology, Astrobiology, Genomics and AI)
 # Bio
 Hi there, welcome! I am Protik Chanda, a B.Tech graduate from the National Institute of Technology(NIT) Durgapur, WB, India. I love learning and exploring new things every day. Currently, I am looking for graduate study opportunities in biotechnology, bioinformatics, and programming-related studies. Programming is one of my hobbies; in my spare time, I enjoy playing guitar and listening to music while dreaming of the wild to embark on a journey, leaving behind the chaotic city. I would be delighted if you find my profile suitable for your lab and work since I actively seek to start my studies and research. Any suggestion or communication is much appreciated.
 # Education and Courses
