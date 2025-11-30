@@ -72,7 +72,7 @@ doi = {10.1007/s11356-022-24022-4}\n
 ---
 **Email:** protikchanda (AT) gmail (DOT) com\
 **[Curriculum Vitae](https://drive.google.com/file/d/15JpDm-B8TuYYrRm0-z5wWKHN3km3r-Q5/view?usp=sharing) | [ORCID](https://orcid.org/0009-0008-7990-8033) | [Google Scholar](https://scholar.google.com/citations?user=f2kTenwAAAAJ&hl=en) | [ResearchGate](https://www.researchgate.net/profile/Protik-Chanda) | [GitHub](https://github.com/piedpipr)**\
-**Research Interests:** Application of AI on Biological and Health Science
+**Research Interests:** Application of AI in Biological and Health Science
 # Bio
 Hi there, welcome! I am Protik Chanda, a B.Tech graduate from the National Institute of Technology(NIT) Durgapur, WB, India. I love learning and exploring new things every day, especially related to technology and science. Currently, I am looking for graduate study opportunities in Applied Artificial Intelligence for Biological Science.
 # Education and Courses
