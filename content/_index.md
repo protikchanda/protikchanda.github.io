@@ -15,11 +15,11 @@ imgname:
 #     type: $IMAGE_TYPE
 # ...
 # A title (job title or "Researcher", "PhD student", etc.)
-personal_title: "Biotechnology and Engineering Graduate, NIT Durgapur(India)"
+personal_title: "AI Research Enthusiast, Biotechnology and Engineering Graduate, NIT Durgapur(India)"
 # An address (you can list multiple)
 address: 
   - 
-    name: Munshiganj 1500
+    #name: Munshiganj 1500
     street: Dhaka, Bangladesh
     #postal_code: "1500"
     #locality: Bangladesh
@@ -71,10 +71,10 @@ doi = {10.1007/s11356-022-24022-4}\n
     description: The exploitation of suitable technology to transform the wastes from pulp and paper industries (PPI) to value-added products is vital from an environmental and socio-economic point of view. As the volume and complexity of sludge and wastewater increase in a rapidly urbanizing world, the challenge of maintaining efficient wastewater treatment in a cost-effective and environmentally friendly manner must be met. Sludge management and disposal are significant problems associated with wastewater treatment plants. Applying the biorefinery concept is necessary for PPI from an environmental point of view and because of the piles of valuables contained therein in the form of waste. This review discusses current trends and challenges in wastewater management and the bio-valorization of paper mills. Lignin has been highlighted as a critical component for generating valuables, and its recovery prospects from solid and liquid PPI waste have been suggested.
 ---
 **Email:** protikchanda (AT) gmail (DOT) com\
-**[Curriculum Vitae](https://drive.google.com/file/d/15JpDm-B8TuYYrRm0-z5wWKHN3km3r-Q5/view?usp=sharing) | [ORCID](https://orcid.org/0009-0008-7990-8033) | [Google Scholar](https://scholar.google.com/citations?user=f2kTenwAAAAJ&hl=en) | [ResearchGate](https://www.researchgate.net/profile/Protik-Chanda) | [LinkedIn](https://www.linkedin.com/in/protikchanda) | [GitHub](https://github.com/piedpipr) | [Rosalind](https://rosalind.info/users/protik/)**\
-**Research Interests:** Biotechnology & Bioengineering (Bioinformatics, Microbiology, Astrobiology, Genomics and AI)
+**[Curriculum Vitae](https://drive.google.com/file/d/15JpDm-B8TuYYrRm0-z5wWKHN3km3r-Q5/view?usp=sharing) | [ORCID](https://orcid.org/0009-0008-7990-8033) | [Google Scholar](https://scholar.google.com/citations?user=f2kTenwAAAAJ&hl=en) | [ResearchGate](https://www.researchgate.net/profile/Protik-Chanda) | [GitHub](https://github.com/piedpipr)**\
+**Research Interests:** Application of AI on Biological and Health Science
 # Bio
-Hi there, welcome! I am Protik Chanda, a B.Tech graduate from the National Institute of Technology(NIT) Durgapur, WB, India. I love learning and exploring new things every day. Currently, I am looking for graduate study opportunities in biotechnology, bioinformatics, and programming-related studies. Programming is one of my hobbies; in my spare time, I enjoy playing guitar and listening to music while dreaming of the wild to embark on a journey, leaving behind the chaotic city. I would be delighted if you find my profile suitable for your lab and work since I actively seek to start my studies and research. Any suggestion or communication is much appreciated.
+Hi there, welcome! I am Protik Chanda, a B.Tech graduate from the National Institute of Technology(NIT) Durgapur, WB, India. I love learning and exploring new things every day, especially related to technology and science. Currently, I am looking for graduate study opportunities in Applied Artificial Intelligence for Biological Science.
 # Education and Courses
 ### [National Institute of Technology Durgapur](https://nitdgp.ac.in/)
  **B.Tech in Biotechnology** - First-class\
